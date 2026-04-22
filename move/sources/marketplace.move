@@ -1,6 +1,6 @@
-module challenge::marketplace;
+module sui_marketplace::marketplace;
 
-use challenge::hero::Hero;
+use sui_marketplace::hero::Hero;
 use sui::coin::{Self, Coin};
 use sui::event;
 use sui::sui::SUI;

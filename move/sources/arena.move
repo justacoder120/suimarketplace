@@ -1,6 +1,6 @@
-module challenge::arena;
+module sui_marketplace::arena;
 
-use challenge::hero::{Self, Hero};
+use sui_marketplace::hero::{Self, Hero};
 use sui::event;
 use sui::object::{UID, ID};
 use sui::transfer;

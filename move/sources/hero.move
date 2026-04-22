@@ -1,4 +1,4 @@
-module challenge::hero;
+module sui_marketplace::hero;
 
 use std::string::String;
 use sui::transfer;
