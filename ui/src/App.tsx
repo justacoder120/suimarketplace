@@ -26,7 +26,7 @@ function App() {
         }}
       >
         <Box>
-          <Heading size="6">Hero NFT Marketplace</Heading>
+          <Heading size="6">SUI Marketplace</Heading>
         </Box>
 
         <Box>
