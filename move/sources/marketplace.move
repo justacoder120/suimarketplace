@@ -4,10 +4,6 @@ use sui_marketplace::hero::Hero;
 use sui::coin::{Self, Coin};
 use sui::event;
 use sui::sui::SUI;
-use sui::object::{UID, ID};
-use sui::transfer;
-use sui::tx_context::TxContext;
-use sui::object;
 
 // ========= ERRORS =========
 

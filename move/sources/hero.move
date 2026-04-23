@@ -1,9 +1,6 @@
 module sui_marketplace::hero;
 
 use std::string::String;
-use sui::transfer;
-use sui::object::{Self, UID, ID};
-use sui::tx_context::{Self, TxContext};
 
 // ========= STRUCTS =========
 public struct Hero has key, store {
